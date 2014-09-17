@@ -1,0 +1,16 @@
+
+body{
+        background-color:antiquewhite; 
+        font-family: arial;
+      }
+      h1{color:forestgreen; 
+        font-family: cursive;
+        border-bottom-width:medium;
+        border-bottom-style:inset;
+        border-bottom-color: black;
+      }
+      h2{color: lightcoral;
+        font-family: cursive;
+        text-align: center;
+      }
+      .h2one{color:magenta;}

@@ -3,6 +3,9 @@ Dominique Mortelliti
 Purple - #423959
 Green - #7db394
 Pink - #d15085
+ <div class="color1"><p>#4f6e96</p></div>
+    <div class="color2"><p>#e8d1c1</p></div>
+    <div class="color3"><p>#e3dfd6</p></div>
 */
 a{
   color:#7db394;
@@ -12,8 +15,24 @@ color:#7db394;
 }
 h2{ color:#d15085;
 }
-div{
+.color1{
   width:200px;
   height:200px;
   background-color:#4f6e96;
+}
+.color1 p{
+  color:white;
+}
+ .color2{
+   width:200px;
+  height:200px;
+  background-color:#e8d1c1;
+ }
+.color3{
+   width:200px;
+  height:200px;
+  background-color:#e3dfd6;
+ }
+.color3 p{
+  color:blue;
 }

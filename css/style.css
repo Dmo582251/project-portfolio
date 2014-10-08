@@ -7,6 +7,7 @@ Pink - #d15085
     <div class="color2"><p>#e8d1c1</p></div>
     <div class="color3"><p>#e3dfd6</p></div>
 */
+@import url(http://fonts.googleapis.com/css?family=Libre+Baskerville);
 header{
   background-color: #dddddd;
   width: 80%;
@@ -15,12 +16,17 @@ header{
   text-align: center;
   padding: 30px;
 }
+body{
+ font-family: "Hoefler Text", "Baskerville old face", Garamond, "Times New Roman", serif; 
+  background-color:#ebc3c7; 
+}
 
 a{
   color:#7db394;
 }
 h1{
 color:#7db394;
+font-family: 'Libre Baskerville', serif;
 }
 h2{ color:#d15085;
 }
@@ -39,11 +45,21 @@ h2{ color:#d15085;
 .color3 p{
   color:blue;
 }
-.clear{
-  clear:both;
-}
+
 .colorsquare{
   width:200px;
   height:200px;
   display: inline-block;
+}
+
+.site-footer a:hover{
+  color:white;
+  font-size: 2em;
+  text-decoration:underline;
+}
+
+
+
+.clear{
+  clear:both;
 }

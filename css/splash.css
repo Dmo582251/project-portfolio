@@ -1,0 +1,17 @@
+html{
+background-image: url(../images/pink%20and%20white%20flowers.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover; 
+}
+
+body{
+  text-align: center;
+  font-size: 30px;
+  
+}
+
+h1{
+  font-size: 4em;
+}

@@ -1,0 +1,30 @@
+html{
+font-family: Garamond;
+}
+body{
+background:url(../images/wavegrid.jpg)
+}
+h1{
+text-align: center;
+width:98%; 
+margin:auto;
+padding:50px;
+}
+h2{
+color:navy;
+text-decoration: underline;
+width:98%; 
+margin:auto;
+padding:0%;
+}
+h4{
+color:maroon;
+width:99%; 
+margin:auto;
+padding:5px;
+}
+p{
+width:97%; 
+margin:auto;
+padding:3px;
+}

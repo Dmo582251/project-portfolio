@@ -58,7 +58,9 @@ h2{ color:#d15085;
   text-decoration:underline;
 }
 
-
+.navigation li{
+list-style: none;
+}
 
 .clear{
   clear:both;
